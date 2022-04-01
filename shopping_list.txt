@@ -1,6 +1,11 @@
 Laptop x2
 Kompjuter x1
 Zvucnici x4
+<<<<<<< HEAD
 Skener x5
 Printer x8
 
+=======
+Monitor x5
+Mikrofon 
+>>>>>>> branch2
