@@ -1,6 +1,6 @@
-Laptop
-Kompjuter
-Zvucnici
-Skener
-Printer
+Laptop x2
+Kompjuter x3
+Zvucnici x4
+Skener x5
+Printer x2
 
