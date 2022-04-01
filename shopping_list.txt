@@ -2,5 +2,5 @@ Laptop x2
 Kompjuter x1
 Zvucnici x4
 Skener x5
-Printer x2
+Printer x8
 
